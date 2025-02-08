@@ -1,0 +1,5 @@
+{
+    "user_id": 1010,
+    "risk_level": "medium",
+    "justification": "The user has made 5 trades in the past hour on 2025-02-02 03:49:56, with a total volume of 2,500. This is unusual but not suspicious."
+}
