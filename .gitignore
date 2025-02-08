@@ -1,0 +1,50 @@
+# Python virtual environment
+venv/
+.env
+.venv
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.sqlite
+analysis_output/
+models/*.joblib
+notebooks/.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Local environment files
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
