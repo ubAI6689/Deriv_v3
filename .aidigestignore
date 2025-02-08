@@ -43,5 +43,8 @@ logs/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
-.aidigestignore
-codebase.md
+# csv
+*.csv
+
+# ipynb
+*.ipynb
